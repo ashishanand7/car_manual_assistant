@@ -1,0 +1,10 @@
+# requirements.txt
+
+gradio
+torch
+sentence_transformers
+pdfplumber
+chromadb
+transformers
+rerankers
+groq
